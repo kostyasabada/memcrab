@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/memcrab/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/memcrab/static/js/main.ff78a48a.chunk.js",
+    "main.js.map": "/memcrab/static/js/main.ff78a48a.chunk.js.map",
+    "runtime-main.js": "/memcrab/static/js/runtime-main.d55234fe.js",
+    "runtime-main.js.map": "/memcrab/static/js/runtime-main.d55234fe.js.map",
+    "static/js/2.f1a4fb34.chunk.js": "/memcrab/static/js/2.f1a4fb34.chunk.js",
+    "static/js/2.f1a4fb34.chunk.js.map": "/memcrab/static/js/2.f1a4fb34.chunk.js.map",
+    "static/js/3.064fafcd.chunk.js": "/memcrab/static/js/3.064fafcd.chunk.js",
+    "static/js/3.064fafcd.chunk.js.map": "/memcrab/static/js/3.064fafcd.chunk.js.map",
+    "index.html": "/memcrab/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/memcrab/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.f1a4fb34.chunk.js.LICENSE.txt": "/memcrab/static/js/2.f1a4fb34.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/memcrab/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d55234fe.js",
+    "static/js/2.f1a4fb34.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.ff78a48a.chunk.js"
+  ]
+}
