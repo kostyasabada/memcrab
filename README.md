@@ -1,4 +1,4 @@
-[Demo link](https://kostyasabada.github.io/memcrab/).
+[DEMO LINK](https://kostyasabada.github.io/memcrab/).
 
 ## The project was creater with:
 
