@@ -60,7 +60,7 @@ export const TableForm = () => {
         className="form__label"
         htmlFor="closestAmount"
       >
-        Closest amount:
+        Closest cells:
       </label>
       <input
         className="form__input"

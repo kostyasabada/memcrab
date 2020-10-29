@@ -51,6 +51,7 @@ export const TableRow = ({
           key={cell.id}
           onClick={() => {
             dispatch(increaseAmount(cell.id, cell.amount));
+            handleClosestArr(cell.amount, cell.id);
           }}
           onKeyDown={({ key }) => {
             if (key === 'Enter') {
