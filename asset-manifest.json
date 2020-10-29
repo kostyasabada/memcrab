@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/memcrab/static/css/main.93ccd70e.chunk.css",
-    "main.js": "/memcrab/static/js/main.6a28ecbf.chunk.js",
-    "main.js.map": "/memcrab/static/js/main.6a28ecbf.chunk.js.map",
+    "main.js": "/memcrab/static/js/main.f85a6215.chunk.js",
+    "main.js.map": "/memcrab/static/js/main.f85a6215.chunk.js.map",
     "runtime-main.js": "/memcrab/static/js/runtime-main.37ad3740.js",
     "runtime-main.js.map": "/memcrab/static/js/runtime-main.37ad3740.js.map",
     "static/js/2.e84aa70f.chunk.js": "/memcrab/static/js/2.e84aa70f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.37ad3740.js",
     "static/js/2.e84aa70f.chunk.js",
     "static/css/main.93ccd70e.chunk.css",
-    "static/js/main.6a28ecbf.chunk.js"
+    "static/js/main.f85a6215.chunk.js"
   ]
 }
